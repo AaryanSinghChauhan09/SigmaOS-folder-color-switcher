@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-folder-color-switcher"
-description = "SigmaOS subsystem component for folder-color-switcher"
+description = "Colour-code folders in the file manager"
 version = "0.1.0"
 tier = 5
 
